@@ -1,0 +1,105 @@
+C:\Users\pozit\Desktop\Only For Me\C#\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\pozit\Desktop\Only For Me\C#\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\pozit\Desktop\Only For Me\C#\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\pozit\Desktop\Only For Me\C#\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\pozit\Desktop\Only For Me\C#\lab2\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\pozit\Desktop\Only For Me\C#\lab2\lab2\obj\Debug\lab2.Form2.resources
+C:\Users\pozit\Desktop\Only For Me\C#\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\pozit\Desktop\Only For Me\C#\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\pozit\Desktop\Only For Me\C#\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\pozit\Desktop\Only For Me\C#\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\pozit\Desktop\Only For Me\C#\lab2\lab2\obj\Debug\lab2.pdb
+C:\Users\pozit\Desktop\Only For Me\C#\lab2\lab2\obj\Debug\lab2.Form3.resources
+C:\Users\pozit\Desktop\Only For Me\C#\lab2\lab2\obj\Debug\lab2.Form4.resources
+C:\Users\pozit\Desktop\Only For Me\C#\Lab2\lab2\obj\Debug\lab2.Form5.resources
+C:\Users\pozit\Desktop\Only For Me\C#\Lab2\lab2\obj\Debug\lab2.Form6.resources
+C:\Users\pozit\Desktop\Only For Me\C#\Lab2\lab2\obj\Debug\lab2.Form7.resources
+C:\Users\Maxim\Desktop\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\Maxim\Desktop\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\Maxim\Desktop\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\Maxim\Desktop\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\Maxim\Desktop\lab2\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\Maxim\Desktop\lab2\lab2\obj\Debug\lab2.Form2.resources
+C:\Users\Maxim\Desktop\lab2\lab2\obj\Debug\lab2.Form3.resources
+C:\Users\Maxim\Desktop\lab2\lab2\obj\Debug\lab2.Form4.resources
+C:\Users\Maxim\Desktop\lab2\lab2\obj\Debug\lab2.Form5.resources
+C:\Users\Maxim\Desktop\lab2\lab2\obj\Debug\lab2.Form6.resources
+C:\Users\Maxim\Desktop\lab2\lab2\obj\Debug\lab2.Form7.resources
+C:\Users\Maxim\Desktop\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\Maxim\Desktop\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\Maxim\Desktop\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\Maxim\Desktop\lab2\lab2\obj\Debug\lab2.pdb
+C:\Users\denis\OneDrive\Рабочий стол\Прога\lab2\bin\Debug\lab2.exe.config
+C:\Users\denis\OneDrive\Рабочий стол\Прога\lab2\bin\Debug\lab2.exe
+C:\Users\denis\OneDrive\Рабочий стол\Прога\lab2\bin\Debug\lab2.pdb
+C:\Users\denis\OneDrive\Рабочий стол\Прога\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Рабочий стол\Прога\lab2\obj\Debug\lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\OneDrive\Рабочий стол\Прога\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\denis\OneDrive\Рабочий стол\Прога\lab2\obj\Debug\lab2.Form2.resources
+C:\Users\denis\OneDrive\Рабочий стол\Прога\lab2\obj\Debug\lab2.Form3.resources
+C:\Users\denis\OneDrive\Рабочий стол\Прога\lab2\obj\Debug\lab2.Form4.resources
+C:\Users\denis\OneDrive\Рабочий стол\Прога\lab2\obj\Debug\lab2.Form5.resources
+C:\Users\denis\OneDrive\Рабочий стол\Прога\lab2\obj\Debug\lab2.Form6.resources
+C:\Users\denis\OneDrive\Рабочий стол\Прога\lab2\obj\Debug\lab2.Form7.resources
+C:\Users\denis\OneDrive\Рабочий стол\Прога\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\denis\OneDrive\Рабочий стол\Прога\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\denis\OneDrive\Рабочий стол\Прога\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Рабочий стол\Прога\lab2\obj\Debug\lab2.exe
+C:\Users\denis\OneDrive\Рабочий стол\Прога\lab2\obj\Debug\lab2.pdb
+C:\Users\denis\OneDrive\Рабочий стол\Прога\lab2\obj\Debug\lab2.Form8.resources
+D:\downloads\Прога\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+D:\downloads\Прога\lab2\obj\Debug\lab2.csproj.SuggestedBindingRedirects.cache
+D:\downloads\Прога\lab2\obj\Debug\lab2.Form1.resources
+D:\downloads\Прога\lab2\obj\Debug\lab2.Form2.resources
+D:\downloads\Прога\lab2\obj\Debug\lab2.Form3.resources
+D:\downloads\Прога\lab2\obj\Debug\lab2.Form4.resources
+D:\downloads\Прога\lab2\obj\Debug\lab2.Form5.resources
+D:\downloads\Прога\lab2\obj\Debug\lab2.Properties.Resources.resources
+D:\downloads\Прога\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\downloads\Прога\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\downloads\Прога\lab2\obj\Debug\lab2.exe
+D:\downloads\Прога\lab2\obj\Debug\lab2.pdb
+D:\downloads\Прога\lab2\bin\Debug\lab2.exe.config
+D:\downloads\Прога\lab2\bin\Debug\lab2.exe
+D:\downloads\Прога\lab2\bin\Debug\lab2.pdb
+E:\2 курс 2 сем\OOP\alien\lab2\bin\Debug\lab2.exe.config
+E:\2 курс 2 сем\OOP\alien\lab2\bin\Debug\lab2.exe
+E:\2 курс 2 сем\OOP\alien\lab2\bin\Debug\lab2.pdb
+E:\2 курс 2 сем\OOP\alien\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+E:\2 курс 2 сем\OOP\alien\lab2\obj\Debug\lab2.csproj.SuggestedBindingRedirects.cache
+E:\2 курс 2 сем\OOP\alien\lab2\obj\Debug\lab2.Form1.resources
+E:\2 курс 2 сем\OOP\alien\lab2\obj\Debug\lab2.Form2.resources
+E:\2 курс 2 сем\OOP\alien\lab2\obj\Debug\lab2.Form3.resources
+E:\2 курс 2 сем\OOP\alien\lab2\obj\Debug\lab2.Form4.resources
+E:\2 курс 2 сем\OOP\alien\lab2\obj\Debug\lab2.Properties.Resources.resources
+E:\2 курс 2 сем\OOP\alien\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+E:\2 курс 2 сем\OOP\alien\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+E:\2 курс 2 сем\OOP\alien\lab2\obj\Debug\lab2.exe
+E:\2 курс 2 сем\OOP\alien\lab2\obj\Debug\lab2.pdb
+D:\PRISHELIC\lab2\bin\Debug\lab2.exe.config
+D:\PRISHELIC\lab2\bin\Debug\lab2.exe
+D:\PRISHELIC\lab2\bin\Debug\lab2.pdb
+D:\PRISHELIC\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+D:\PRISHELIC\lab2\obj\Debug\lab2.Form1.resources
+D:\PRISHELIC\lab2\obj\Debug\lab2.Form2.resources
+D:\PRISHELIC\lab2\obj\Debug\lab2.Form3.resources
+D:\PRISHELIC\lab2\obj\Debug\lab2.Form4.resources
+D:\PRISHELIC\lab2\obj\Debug\lab2.Properties.Resources.resources
+D:\PRISHELIC\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\PRISHELIC\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\PRISHELIC\lab2\obj\Debug\lab2.exe
+D:\PRISHELIC\lab2\obj\Debug\lab2.pdb
+d:\Desktop\haha\lab2\bin\Debug\lab2.exe.config
+d:\Desktop\haha\lab2\bin\Debug\lab2.exe
+d:\Desktop\haha\lab2\bin\Debug\lab2.pdb
+d:\Desktop\haha\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+d:\Desktop\haha\lab2\obj\Debug\lab2.Form1.resources
+d:\Desktop\haha\lab2\obj\Debug\lab2.Form2.resources
+d:\Desktop\haha\lab2\obj\Debug\lab2.Form3.resources
+d:\Desktop\haha\lab2\obj\Debug\lab2.Form4.resources
+d:\Desktop\haha\lab2\obj\Debug\lab2.Properties.Resources.resources
+d:\Desktop\haha\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+d:\Desktop\haha\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+d:\Desktop\haha\lab2\obj\Debug\lab2.exe
+d:\Desktop\haha\lab2\obj\Debug\lab2.pdb
